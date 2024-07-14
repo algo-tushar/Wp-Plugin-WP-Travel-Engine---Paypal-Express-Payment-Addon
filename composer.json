@@ -1,0 +1,21 @@
+{
+    "name": "algo-tushar/addons-wp-travel-engine",
+    "description": "PayPal express checkout for wp-travel-engine",
+    "authors": [
+        {
+            "name": "Abubakar Wazih Tushar",
+            "email": "tushar.abubakar@gmail.com",
+            "homepage": "https://www.upwork.com/freelancers/~01634cdcebabdaed64",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "paypal/paypal-checkout-sdk": "^1.0.2",
+        "paypal/paypalhttp": "^1.0.1"
+    }
+}

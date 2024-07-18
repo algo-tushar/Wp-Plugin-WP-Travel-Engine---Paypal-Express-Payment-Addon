@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 if ( ! function_exists( 'WTE_paypal_express_payment') ) {
 	function WTE_paypal_express_payment() {
-		defined( 'WPEC_PLUGIN_VER' )		|| define( 'WPEC_PLUGIN_VER', '1.0.0' );
+		defined( 'WTE_PLUGIN_VER' )			|| define( 'WTE_PLUGIN_VER', '1.0.0' );
 		defined( 'WTE_ADDONS_FILE' )		|| define( 'WTE_ADDONS_FILE', __FILE__ );
 		defined( 'WTE_ADDONS_PLUGIN_URL' )	|| define( 'WTE_ADDONS_PLUGIN_URL', plugins_url( '', WTE_ADDONS_FILE ) );
 		defined( 'WTE_ADDONS_PLUGIN_PATH' )	|| define( 'WTE_ADDONS_PLUGIN_PATH', plugin_dir_path( WTE_ADDONS_FILE ) );

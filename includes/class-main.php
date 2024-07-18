@@ -49,7 +49,7 @@ class Main {
 			$env = $paypal_enable_sandbox ? 'sandbox' : 'production';
 
 			// Enqueue the public script
-			wp_enqueue_script( 'wte-addons-script', WTE_ADDONS_PLUGIN_URL . "/assets/js/script.js", ['jquery', 'wp-i18n'], WPEC_PLUGIN_VER, true );
+			wp_enqueue_script( 'wte-addons-script', WTE_ADDONS_PLUGIN_URL . "/assets/js/script.js", ['jquery', 'wp-i18n'], WTE_PLUGIN_VER, true );
 			wp_set_script_translations( 'wte-addons-script', 'wte-addons' );
 			
 			wp_localize_script( 'wte-addons-script', 'wte_addons', [

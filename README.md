@@ -10,7 +10,7 @@ This is an addon for the [WP Travel Engine](https://wptravelengine.com/) WordPre
 
 ## Installation
 
-1. Download the plugin zip file from the [releases page](https://github.com/algo-tushar/Wp-Travel-Engine-Paypal-Express-Addon/releases).
+1. Download the plugin zip file from the [releases page](https://github.com/algo-tushar/Wp-Travel-Engine-Paypal-Express-Checkout-Addon/releases).
 2. Go to your WordPress admin dashboard.
 3. Navigate to Plugins > Add New.
 4. Click on the "Upload Plugin" button and choose the downloaded zip file.
@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For support or any questions, please [open an issue](https://github.com/algo-tushar/Wp-Travel-Engine-Paypal-Express-Addon/issues)
+For support or any questions, please [open an issue](https://github.com/algo-tushar/Wp-Travel-Engine-Paypal-Express-Checkout-Addon/issues)
